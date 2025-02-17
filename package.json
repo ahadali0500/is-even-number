@@ -1,0 +1,17 @@
+{
+  "name": "is-even-number",
+  "version": "1.0.0",
+  "description": "A small utility to check if a number is even",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "even",
+    "number",
+    "utility"
+  ],
+  "author": "Ahad Ali",
+  "license": "ISC"
+}
